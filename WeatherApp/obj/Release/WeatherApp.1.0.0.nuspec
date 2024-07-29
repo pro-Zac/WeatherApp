@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WeatherApp</id>
+    <version>1.0.0</version>
+    <authors>WeatherApp</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/DotnetToolSettings.xml" target="tools/net8.0/any/DotnetToolSettings.xml" />
+    <file src="/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.dll" target="tools/net8.0/any/WeatherApp.dll" />
+    <file src="/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.deps.json" target="tools/net8.0/any/WeatherApp.deps.json" />
+    <file src="/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.runtimeconfig.json" target="tools/net8.0/any/WeatherApp.runtimeconfig.json" />
+    <file src="/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.pdb" target="tools/net8.0/any/WeatherApp.pdb" />
+  </files>
+</package>

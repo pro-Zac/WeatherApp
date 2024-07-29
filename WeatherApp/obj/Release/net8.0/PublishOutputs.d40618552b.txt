@@ -1,0 +1,5 @@
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.dll
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.deps.json
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.runtimeconfig.json
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Release/net8.0/publish/WeatherApp.pdb

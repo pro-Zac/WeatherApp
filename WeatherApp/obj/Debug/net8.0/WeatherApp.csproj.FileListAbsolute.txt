@@ -1,0 +1,14 @@
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Debug/net8.0/WeatherApp
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Debug/net8.0/WeatherApp.deps.json
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Debug/net8.0/WeatherApp.runtimeconfig.json
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Debug/net8.0/WeatherApp.dll
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/bin/Debug/net8.0/WeatherApp.pdb
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/WeatherApp.AssemblyInfoInputs.cache
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/WeatherApp.AssemblyInfo.cs
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/WeatherApp.csproj.CoreCompileInputs.cache
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/WeatherApp.dll
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/refint/WeatherApp.dll
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/WeatherApp.pdb
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/WeatherApp.genruntimeconfig.cache
+/home/zac/Documents/GitHub/C#/WeatherApp/WeatherApp/obj/Debug/net8.0/ref/WeatherApp.dll
